@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# BirdCLEF competition data
+train.csv
+taxonomy.csv
+sample_submission.csv
+train_soundscapes_labels.csv
+train_audio/
+test_soundscapes/
+train_soundscapes/
+
+# Local project data folders
+data/raw/
+data/processed/
+
+# Local notes / scratch files
+recording_location.txt
