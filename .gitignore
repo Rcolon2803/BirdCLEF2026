@@ -220,3 +220,6 @@ data/processed/
 
 # Local notes / scratch files
 recording_location.txt
+# Generated submission files
+submission.csv
+notebooks/submission.csv
